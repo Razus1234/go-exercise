@@ -16,6 +16,7 @@ It contains basic exercises that demonstrate Go syntax, struct, slice, function,
 ---
 
 ## 📦 Project Structure
+```text
 go-exercise
 ├── main.go # Entry point
 ├── exercise1_hello.go # Print "Hello, Go!"
@@ -30,7 +31,7 @@ go-exercise
 ├── exercise10_channel.go # Channels for communication
 ├── webserver.go # Simple REST API with net/http
 └── README.md # You are here
-
+```
 
 ---
 
