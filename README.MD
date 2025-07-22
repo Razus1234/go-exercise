@@ -1,3 +1,5 @@
+![badge](https://img.shields.io/badge/Status-InProgress-yellow.svg)
+
 # 🧠 Go CRUD API Beginner Project
 
 This repository is a hands-on learning project for developers transitioning from .NET (C#) to **Go (Golang)**.  
