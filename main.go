@@ -13,5 +13,9 @@ func main() {
 	exercise7_method(persons[0])
 	persons = exercise8_crud(persons)
 
+	exercise9_goroutine()
+	exercise10_channel()
+	webserver()
+
 	fmt.Println("✅ All exercises completed successfully!")
 }
