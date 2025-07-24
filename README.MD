@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/badge/Status-InProgress-yellow.svg)
+![badge](https://img.shields.io/badge/Status-Done.svg)
 
 # 🧠 Go CRUD API Beginner Project
 
