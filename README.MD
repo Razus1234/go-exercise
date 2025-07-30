@@ -1,6 +1,6 @@
 ![badge](https://img.shields.io/badge/Status-Done-green.svg)
 
-# 🧠 Go CRUD API Beginner Project
+# 🧠 Go Exsercise
 
 This repository is a hands-on learning project for developers transitioning from .NET (C#) to **Go (Golang)**.  
 It contains basic exercises that demonstrate Go syntax, struct, slice, function, goroutine, channel, and an in-memory REST API.
